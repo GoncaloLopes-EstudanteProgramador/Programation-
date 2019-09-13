@@ -1,7 +1,6 @@
 # Programation-
 Hello. My name is Gonçalo Lopes and I'm a student in the technical field and computer programmer.
 
-
 #Portuguese
 
     Sou curioso e interessado, ainda não sei ao certo que área vou seguir no meu futuro se será parte Técnica ou parte de programação mas em principio será parte de programação pois tenho interesse em levar a sério a aprendizagem e quem sabe um dia ser uma pessoa com projetos pessoais e profissionais muito interessantes, criei conta de git hub pois após ler alguns fóruns sobre esta área achei o aconselhado criar a minha conta de github e partilhar os conhecimentos que vou adquirir. 
@@ -19,7 +18,5 @@ Hello. My name is Gonçalo Lopes and I'm a student in the technical field and co
       
       
  Informação adicional: Por motivos de partilha e privacidade não irei publicar muita parte do código e muito do código que vou partilhar convosco terá partes em branco pois este projeto foi criado em módulo escolar e com algumas modificações pessoais. 
- 
- 
  
                                                                                                                        Edição: 13/09/2019
